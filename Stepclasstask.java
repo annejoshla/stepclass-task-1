@@ -18,7 +18,7 @@ import java.util.Scanner;
         }
     }
 
-} */ 
+} /
 
 
 // 2.Write a program to check if the first, second, or third number is the largest of the three.
