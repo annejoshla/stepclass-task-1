@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 // 1. Divisible by 5
-/*public class Stepclasstask {
+public class Stepclasstask {
      public static void main(String[] args) {
         System.out.println("Enter a number");
         Scanner scanner = new Scanner(System.in);
@@ -18,12 +18,12 @@ import java.util.Scanner;
         }
     }
 
-} /
+} 
 
 
 // 2.Write a program to check if the first, second, or third number is the largest of the three.
 
-   /*  public class Stepclasstask {
+    public class Stepclasstask {
         public static void main(String[] args) {
             System.out.println("Enter a number1");
             System.out.println("Enter a number2");
@@ -43,10 +43,10 @@ import java.util.Scanner;
             }
             
         }
-    } */ 
+    } 
 
 // 3. Write a program to check whether a person can vote, depending on whether his/her age is greater than or equal to 18
- /*       public class Stepclasstask {
+       public class Stepclasstask {
             public static void main(String[] args) {
                 System.out.println("Enter your age:");
                 Scanner scanner = new Scanner(System.in);
@@ -58,14 +58,14 @@ import java.util.Scanner;
                 }
             }
         } 
-*/ 
+
 
 
                                         // LEVEL 2
 
 // 1. Create a program to find the multiplication table of a number entered by the user from 6 to 9
 
-/*public class Stepclasstask {
+public class Stepclasstask {
     public static void main(String[] args) {
         System.out.println("Enter a number");
 
@@ -79,11 +79,9 @@ import java.util.Scanner;
     }
 }
 
-*/ 
 
 
-// 2. Create a program to print odd and even numbers between 1 to the number entered by the user.
-/* 
+// 2. Create a program to print odd and even numbers between 1 to the number entered by the user. 
 public class Stepclasstask {
     public static void main(String[] args) {
         System.out.println("Enter a number:");
@@ -105,7 +103,6 @@ public class Stepclasstask {
 
 }
 
-*/
 
                                         //LEVEL 3
 
